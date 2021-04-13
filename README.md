@@ -1,14 +1,29 @@
 # The Techie Blog
 
-> The website has been created as a refresher for **Node.js**, **Express.js**, View Engines (**EJS**) and **MongoDB** along with **Mongoose** and employs an ***MVC-based*** approach.
+> A McTechie creation 👨‍🎨✨
+ 
+### Tech Used
+
+> The website employs an ***MVC-based*** approach.
+
+- [x] Node.js
+- [x] Express.js
+- [x] View Engine (EJS)
+- [x] MongoDB (+ Mongoose)
+
+---
 
 ### Home Page
 
 ![All Blogs](./assets/all_blogs.png)
 
+---
+
 ### Individual Blogs
 
 ![Blog Details](./assets/blog_info.png)
+
+---
 
 ### Create New Blogs
 
